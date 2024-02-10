@@ -6,6 +6,7 @@ Config.WhitelistedCreators = {
     "XOT72192",
     "UZR42883",
     "TKP11534",
+    "XIV61527",
 }
 
 Config.RaceSetupAllowed = true
